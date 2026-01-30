@@ -84,6 +84,26 @@ All logic, explanations, and findings are documented **within the notebook itsel
 
 ---
 
+
+## 📘 Documentation
+
+The complete project report is available in the following file:
+
+📄 **Documentation/23050396 SHIVAM KUMAR THAKUR.pdf**
+
+This document represents my **Undergraduate Semester Project / Dissertation**
+submitted to **London Metropolitan University**.
+
+It includes:
+- Background and literature review on air pollution in Kathmandu
+- Dataset description and preprocessing steps
+- Time-series feature engineering (lag features)
+- Model development (Linear Regression, Random Forest, LSTM)
+- Evaluation metrics and visual comparisons
+- Discussion, conclusions, and future work
+
+---
+
 ## License and Acknowledgment
 
 - **Data:** © Open Knowledge Nepal / Open Data Nepal, provided under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
